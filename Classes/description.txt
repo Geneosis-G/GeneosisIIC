@@ -1,0 +1,39 @@
+To make improbable things happen!
+
+Extrated from the engine of the famous starship Heart of Gold, this IIC grant you the ability to transform anything into anything else! And it's said that it could even be used to travel instantly...
+
+[b]FEATURES[/b]
+- Infinite Improbability Core: Can generate infinite improbability.
+
+[b]COMMANDS[/b]
+- [b][R]:[/b] Randomize the closest object/person.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][Y]:[/b] Randomize the closest object/person.
+
+[b]CHARACTERISTICS[/b]
+- Only objects existing in the current map can appear when you use the IIC.
+
+[b]EASTER EGGS[/b]
+- [spoiler]If you walk on an object and use the IIC on it, you will be teleported to a random location.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Sometimes people fail to transform.
+
+[b]FAQ[/b]
+[i]Before starting any of the following steps [b]close Goat Simulator[/b][/i].
+
+- How do I use this mod?
+[i]First hit the [+ Subscribe] button on this page to download the mod. After doing that Steam should start downloading the mod (you can see the progress at the bottom of your Steam window), wait for the download to complete before starting your game. In the main menu of the game, select Custom Game, then you will see a list of all the mutators installed on your computer. Click on the mutators you want in this list to add them to your goat.[/i]
+
+- The mod is installed but does nothing when I use it, what should I do?
+[i]Unsubscribe to the mod, Steam will update the game wait for the end of this update before doing the next steps. Open the file "C:\ Program Files (x86) \Steam \SteamApps \common \GoatSimulator \GoatGame \Config \GoatMod.ini" (or "GoatMod") with notepad and delete its content. Read the preview instructions if you want to reinstall the mod.[/i]
+
+- My game is crashing at startup, what do I do?
+[i]Try to follow [url=http://steamcommunity.com/sharedfiles/filedetails/?id=247411111]this guide[/url] and see if it fixed your problem. If not, I don't think I can do anything more sorry.[/i]
+
+[b]DEV NOTES[/b]
+[quote=About this mod]I got the idea of this little mod after discovering the Towel mutator in the City Bay map ^^ So I decided to make my own reference to The Hitchhiker's Guide to the Galaxy that bring into the game more crazy stuff :p
+This works the same way as the Target Swap: it swap the position of two items, the first one is the closest item to the player and the second one is a random item in the map.
+The teleportation worked fine for NPCs and goats, but I had to make a specific case for the other objects because they don't support teleportation by default.
+[/quote]
